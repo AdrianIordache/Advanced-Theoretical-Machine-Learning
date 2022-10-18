@@ -1,0 +1,5 @@
+**/Videos/
+**/Backup/
+**/latex_source_*.zip
+.ipynb_checkpoints
+**/__pycache__/

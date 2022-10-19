@@ -35,15 +35,15 @@ Solarized dark             |  Solarized Ocean
 -->
 
 <p align="center">
-  <img alt="Page-6" src="https://github.com/AdrianIordache/Advanced-Theoretical-Machine-Learning/blob/main/Images/Solution-2-Adrian-Iordache-6.jpg" width="48%">
+  <img alt="Page-6" src="https://github.com/AdrianIordache/Advanced-Theoretical-Machine-Learning/blob/main/Images/Solution-2-Adrian-Iordache-6.jpg" width="35%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Page-7" src="https://github.com/AdrianIordache/Advanced-Theoretical-Machine-Learning/blob/main/Images/Solution-2-Adrian-Iordache-7.jpg" width="48%">
+  <img alt="Page-7" src="https://github.com/AdrianIordache/Advanced-Theoretical-Machine-Learning/blob/main/Images/Solution-2-Adrian-Iordache-7.jpg" width="35%">
 </p>
 
 ### Assignment 2: VC dimension and hypothesis finding algorithm for all strings of size M subspace
 
 <p align="center">
-  <img alt="Page-8" src="https://github.com/AdrianIordache/Advanced-Theoretical-Machine-Learning/blob/main/Images/Solution-2-Adrian-Iordache-8.jpg" width="48%">
+  <img alt="Page-8" src="https://github.com/AdrianIordache/Advanced-Theoretical-Machine-Learning/blob/main/Images/Solution-2-Adrian-Iordache-8.jpg" width="35%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Page-9" src="https://github.com/AdrianIordache/Advanced-Theoretical-Machine-Learning/blob/main/Images/Solution-2-Adrian-Iordache-9.jpg" width="48%">
+  <img alt="Page-9" src="https://github.com/AdrianIordache/Advanced-Theoretical-Machine-Learning/blob/main/Images/Solution-2-Adrian-Iordache-9.jpg" width="35%">
 </p>

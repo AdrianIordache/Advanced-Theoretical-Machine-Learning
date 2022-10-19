@@ -26,15 +26,16 @@
   - AdaBoost Algorithm
   
 # Examples
-### <div align="center"> AdaBoost </div>
-
-
 <!--
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://github.com/AdrianIordache/Advanced-Theoretical-Machine-Learning/blob/main/Images/Solution-2-Adrian-Iordache-6.jpg)   |  ![](https://github.com/AdrianIordache/Advanced-Theoretical-Machine-Learning/blob/main/Images/Solution-2-Adrian-Iordache-7.jpg)
+### <div align="center"> AdaBoost </div>
 -->
 
+AdaBoost           |  VC dimension and hypothesis finding algorithm for all strings of size M subspace
+:-------------------------:|:-------------------------:
+![](https://github.com/AdrianIordache/Advanced-Theoretical-Machine-Learning/blob/main/Images/Solution-2-Adrian-Iordache-6.jpg)   |  ![](https://github.com/AdrianIordache/Advanced-Theoretical-Machine-Learning/blob/main/Images/Solution-2-Adrian-Iordache-8.jpg)
+![](https://github.com/AdrianIordache/Advanced-Theoretical-Machine-Learning/blob/main/Images/Solution-2-Adrian-Iordache-7.jpg)   |  ![](https://github.com/AdrianIordache/Advanced-Theoretical-Machine-Learning/blob/main/Images/Solution-2-Adrian-Iordache-9.jpg)
+
+<!--
 <p align="center">
   <img alt="Page-6" src="https://github.com/AdrianIordache/Advanced-Theoretical-Machine-Learning/blob/main/Images/Solution-2-Adrian-Iordache-6.jpg" width="47%">
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -48,3 +49,4 @@ Solarized dark             |  Solarized Ocean
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Page-9" src="https://github.com/AdrianIordache/Advanced-Theoretical-Machine-Learning/blob/main/Images/Solution-2-Adrian-Iordache-9.jpg" width="47%">
 </p>
+-->
